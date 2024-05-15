@@ -1,0 +1,99 @@
+body{
+    background-color: burlywood;
+    margin: 0;
+    padding: 20px 20px 50px 20px;
+}
+#logoadoteumgato{
+    width: 100px;
+    mix-blend-mode: multiply;
+}
+#adoteumgato{
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+}
+#adoteumgato h3{
+    padding: 20px 10px 20px 50px;
+}
+.artigo h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+.artigo p{
+    text-align: justify;
+}
+#gatodeitado img{
+    mix-blend-mode: multiply;
+    width: 335px; height: 230px;
+}.patinhagato img{
+    mix-blend-mode: multiply;
+    width: 335px; height: 30px;
+    margin: 20px 0px 20px 0px;
+}
+main section h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+.imgp{
+    display: flex;
+    margin: 40px 0px 40px 0px;
+}
+.imgp img{
+    mix-blend-mode: multiply;
+    border-radius: 10px;
+    width: 60px;
+}
+.imgp p{
+    padding-left: 50px;
+}
+.adotar{
+    margin-bottom: 40px;
+}
+.adotar img{
+    margin-left: 60px;
+    border: 5px solid white;
+    border-radius: 5px;
+}
+.adotar p{
+    text-align: justify;
+}
+.adotar nav{
+    text-align: center;
+}
+.adotar nav a button{
+    width: 120px; height: 30px;
+    border-radius: 20px;
+}
+#form{
+    padding-top: 20px;
+}
+#nome{
+    width: 325px; height: 30px;
+    border-radius: 20px;
+}
+#email{
+    width: 325px; height: 30px;
+    border-radius: 20px;
+}
+#sobrevc{
+    width: 325px;
+    border-radius: 10px;
+}
+#form button{
+    width: 125px; height: 30px;
+    border-radius: 20px;
+    margin-left: 100px;
+}
+footer{
+    text-align: center;
+}
+#appstore{
+    background-image: url(AppStore.jpg);
+    border-radius: 10px;
+}
+#googleplay{
+    background-image: url(GooglePlay.jpg);
+    border-radius: 10px;
+    margin-left: 20px;
+}
+#appstore-googleplay a button{
+    width: 135px; height: 40px;
+}
